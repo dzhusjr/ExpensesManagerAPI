@@ -18,8 +18,8 @@ This is a Expenses Manager project built with Python and Django REST framework. 
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/dzhusjr/TaskManagerAPI.git
-cd TaskManagerAPI
+git clone https://github.com/dzhusjr/ExpensesManagerAPI.git
+cd ExpensesManagerAPI
 ```
 Create a `.env` file in the root directory with the following content:
 
