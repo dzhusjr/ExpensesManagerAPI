@@ -1,4 +1,4 @@
-# Task Manager Project
+# Expenses Manager Project
 
 ## Overview
 This is a Expenses Manager project built with Python and Django REST framework. It allows users to manage expenses and user accounts, with the following features:
