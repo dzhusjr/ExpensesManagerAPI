@@ -69,7 +69,7 @@ docker-compose exec web python manage.py migrate
 - **Create Expense**: `POST /api/expenses/`
 - **Update Expense**: `PATCH /api/expenses/{id}/` (partial update)
 - **View Expenses by Category**: `GET /api/expenses/by_category/?category={category}`
-- **View Expenses by Date Range**: `GET /api/expenses/category_summary/?user_id=1&month=11`
+- **View Expenses by Date Range**: `GET /api/expenses/by_date_range/?start_date=2024-11-01&end_date=2024-11-21`
 - **View Summary by Category**: `GET /api/expenses/category_summary/?user_id=1&&month=11`
 
 ## Notes
